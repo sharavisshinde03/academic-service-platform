@@ -40,6 +40,8 @@ Processing Logic
    - AI Response Generation (Gemini)  
         ↓  
 Supabase Database (Query Logs)  
+        ↓  
+Atlas Admin Panel (Query Logs Dashboard)  
 
 ## Tech Stack
 
@@ -64,10 +66,44 @@ backend/
 
 ## Future Enhancements
 
-- Admin dashboard for monitoring logs and system activity  
-- Advanced document verification using AI vision models  
-- Integration with student profiles and authentication systems  
-- Analytics dashboard using Supabase data  
+Apart from attendance and transaction verification, Atlas AI Assistant can be extended to:
+
+### Leave Approval System
+- Handle different types of leave (medical, personal, academic)  
+- Automate approval workflows  
+
+### Academic Assistance
+- Answer syllabus-related queries  
+- Provide exam preparation summaries  
+- Help students understand academic processes  
+
+### Timetable & Scheduling
+- Voice-based timetable access  
+- Notify students about schedule changes  
+
+### Query Resolution System
+- Handle student FAQs (fees, exams, rules)  
+- Reduce load on administrative staff  
+
+### Announcement Assistant
+- Deliver important notices via voice  
+- Broadcast updates to students  
+
+### Document Verification System
+- Verify certificates, forms, and applications  
+- Automate validation workflows  
+
+## Author
+
+Sharavi Shinde
+
+## Inspiration
+
+Built as an Academic Service Optimization Platform to automate:
+
+- Attendance approvals  
+- Document validation  
+- Payment verification  
 
 ## Conclusion
 
